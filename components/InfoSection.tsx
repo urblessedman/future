@@ -1,6 +1,6 @@
 
 import React, { useState } from 'react';
-import { TrendingUp, AlertTriangle, HelpCircle, ChevronDown, ChevronUp, BookOpen, ShieldAlert } from 'lucide-react';
+import { TrendingUp, HelpCircle, ChevronDown, ChevronUp, BookOpen, ShieldAlert } from 'lucide-react';
 import { AdPlaceholder } from './AdPlaceholder';
 
 export const InfoSection: React.FC = () => {

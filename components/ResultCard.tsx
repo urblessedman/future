@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { CalculationResult } from '../types';
 import { PARENT_SITE_URL } from '../constants';
-import { TrendingDown, Utensils, ArrowRight, Share2, RefreshCw, Check, Copy, AlertTriangle } from 'lucide-react';
+import { TrendingDown, Utensils, ArrowRight, Share2, RefreshCw, Check, AlertTriangle } from 'lucide-react';
 import { AdPlaceholder } from './AdPlaceholder';
 
 interface ResultCardProps {
