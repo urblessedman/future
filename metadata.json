@@ -1,0 +1,5 @@
+{
+  "name": "Smart KR Insurance Future Calculator",
+  "description": "A financial calculator to determine the future value of money and the 'Jajangmyeon Index', helping users understand inflation impact.",
+  "requestFramePermissions": []
+}
